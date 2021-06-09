@@ -10,4 +10,3 @@ url=pyqrcode.create(link)
 
 # Then save it in any director Or folder
 img=url.png('QRCode.png',scale=6)
-plt.imshow(img)
