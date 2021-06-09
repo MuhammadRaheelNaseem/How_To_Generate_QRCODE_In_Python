@@ -1,8 +1,6 @@
 # First install pyqrcode library using command line ya linux terminal
 
 import pyqrcode # Then allow library access
-import matplotlib.pyplot as plt
-import cv2
 
 # make variable to store link below there
 link = "www.facebook.com" 
